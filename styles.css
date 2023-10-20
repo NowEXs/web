@@ -1,0 +1,26 @@
+body{
+    background: #000;
+}
+.text {
+    color: aqua;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+img {
+    margin-left: 40%;
+    width: 300px;
+    height: 300px;
+}
+h1 {
+    margin-left: auto;
+    padding: 10px;
+    border: 2px solid rgb(152, 248, 255);
+}
+.contact{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+a {
+    color: beige;
+    border: 1px solid rgb(196, 255, 141);
+}
