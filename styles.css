@@ -17,7 +17,7 @@ h1 {
     border: 2px solid rgb(152, 248, 255);
 }
 .contact{
-    align: center;
+    text-align: center;
     padding-left: 40%;
     padding-right: 40%;
 }
