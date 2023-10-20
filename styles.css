@@ -1,5 +1,5 @@
 body{
-    background: #000;
+    background: #6effc3;
 }
 .text {
     color: aqua;
@@ -15,12 +15,11 @@ h1 {
     margin-left: auto;
     padding: 10px;
     border: 2px solid rgb(152, 248, 255);
-    text-align: center;
 }
 .contact{
-    text-align: center;
     padding-left: 40%;
     padding-right: 40%;
+    text-align: center;
 }
 a {
     color: beige;
