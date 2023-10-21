@@ -1,27 +1,50 @@
+@import url(https://db.onlinewebfonts.com/c/56a1f21a00724fcdadbf12df7087d4b1?family=Brush+Script);
+@font-face {
+    font-family: "Brush Script";
+    src: url("https://db.onlinewebfonts.com/t/56a1f21a00724fcdadbf12df7087d4b1.eot");
+    src: url("https://db.onlinewebfonts.com/t/56a1f21a00724fcdadbf12df7087d4b1.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/56a1f21a00724fcdadbf12df7087d4b1.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/56a1f21a00724fcdadbf12df7087d4b1.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/56a1f21a00724fcdadbf12df7087d4b1.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/56a1f21a00724fcdadbf12df7087d4b1.svg#Brush Script")format("svg");
+}
+.emiya{
+    font-family: "Brush Script";
+}
 body{
     background: #ff9a47;
 }
 .text {
     text-align: center;
     color: rgb(66, 0, 61);
-    padding-left: 40%;
+    padding-left: 30%;
     padding-right: 40%;
+    margin-top: -343px;
 }
 img {
-    margin-left: 40%;
+    margin-top: 50px;
+    margin-left: 5%;
     width: 300px;
     height: 300px;
+    border: 10px solid brown;
 }
 h1 {
     margin-left: auto;
     padding: 10px;
     border: 2px solid rgb(4, 0, 41);
 }
+a {
+    color: rgb(201, 252, 159);
+}
+.text2{
+    color:rgb(119, 14, 0);
+    padding-left: 1200px;
+    margin-top: -250px;
+    height: 100px;
+}
 .contact{
+    margin-top: 343px;
     padding-left: 40%;
     padding-right: 40%;
     text-align: center;
-}
-a {
-    color: rgb(201, 252, 159);
 }
